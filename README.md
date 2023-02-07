@@ -1,4 +1,4 @@
-# [Spatial-Statistics-for-Remotely-Sensed-Images](https://github.com/MohammadWasiq0786/Spatial-Statistics-for-Remotely-Sensed-Images)
+# [Spatial Statistics for Remotely Sensed Images](https://github.com/MohammadWasiq0786/Spatial-Statistics-for-Remotely-Sensed-Images)
 
 ![image](https://github.com/mohammadwasiq0/mohammadwasiq0/blob/main/amu_logo_resized.png)
 
