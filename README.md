@@ -4,6 +4,6 @@
 
 I'm very very thankful to
 
-Professor Qazi Mazhar Ali
+[**Professor Qazi Mazhar Ali**](https://www.amu.ac.in/faculty/statistics-and-operations-research/qazi-mazhar-ali)
 <br> **Department of Statistics and Operation Research**
 <br> **Aligarh Muslim University , Aligarh(202002)**
